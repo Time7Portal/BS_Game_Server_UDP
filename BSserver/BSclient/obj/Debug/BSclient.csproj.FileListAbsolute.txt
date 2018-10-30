@@ -1,0 +1,18 @@
+F:\BlockShipNew\Server\BSserver\BSclient\bin\Debug\BSclient.exe.config
+F:\BlockShipNew\Server\BSserver\BSclient\bin\Debug\BSclient.exe
+F:\BlockShipNew\Server\BSserver\BSclient\bin\Debug\BSclient.pdb
+F:\BlockShipNew\Server\BSserver\BSclient\obj\Debug\BSclient.exe
+F:\BlockShipNew\Server\BSserver\BSclient\obj\Debug\BSclient.pdb
+F:\BlockShipNew\Server\BSserver\BSclient\obj\Debug\BSclient.csprojResolveAssemblyReference.cache
+F:\BlockShipAssets\Server\BSserver\BSclient\bin\Debug\BSclient.exe.config
+F:\BlockShipAssets\Server\BSserver\BSclient\bin\Debug\BSclient.exe
+F:\BlockShipAssets\Server\BSserver\BSclient\bin\Debug\BSclient.pdb
+F:\BlockShipAssets\Server\BSserver\BSclient\obj\Debug\BSclient.csprojResolveAssemblyReference.cache
+F:\BlockShipAssets\Server\BSserver\BSclient\obj\Debug\BSclient.exe
+F:\BlockShipAssets\Server\BSserver\BSclient\obj\Debug\BSclient.pdb
+D:\Download\프로그램 소스\BSserver\BSclient\bin\Debug\BSclient.exe.config
+D:\Download\프로그램 소스\BSserver\BSclient\bin\Debug\BSclient.exe
+D:\Download\프로그램 소스\BSserver\BSclient\bin\Debug\BSclient.pdb
+D:\Download\프로그램 소스\BSserver\BSclient\obj\Debug\BSclient.csprojResolveAssemblyReference.cache
+D:\Download\프로그램 소스\BSserver\BSclient\obj\Debug\BSclient.exe
+D:\Download\프로그램 소스\BSserver\BSclient\obj\Debug\BSclient.pdb
